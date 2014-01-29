@@ -12,4 +12,9 @@
   <modules>
     <module>simple-parent</module>
   </modules>
+ <scm>
+	<connection>scm:git:git@github.com:nkhalasi/ch-multi.git</connection>
+	<url>scm:git:git@github.com:nkhalasi/ch-multi.git</url>
+	<developerConnection>scm:git:git@github.com:nkhalasi/ch-multi.git</developerConnection>
+  </scm>
 </project>
