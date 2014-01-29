@@ -4,11 +4,11 @@
   <parent>
     <groupId>org.sonatype.mavenbook.multi</groupId>
     <artifactId>simple-parent</artifactId>
-    <version>1.0</version>
+    <version>0.8-SNAPSHOT</version>
   </parent>
 
   <artifactId>simple-webapp</artifactId>
-  <version>1.0.1</version>
+  <version>0.8-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Multi Chapter Simple Web Application Project</name>
   <dependencies>

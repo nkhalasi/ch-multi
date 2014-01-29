@@ -3,16 +3,15 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.sonatype.mavenbook.multi</groupId>
   <artifactId>parent</artifactId>
-  <version>1.0</version>
+  <version>0.8-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Multi Chapter Parent Project</name>
   <modules>
     <module>simple-parent</module>
   </modules>
- <scm>
+  <scm>
 	<connection>scm:git:git@github.com:nkhalasi/ch-multi.git</connection>
 	<url>scm:git:git@github.com:nkhalasi/ch-multi.git</url>
 	<developerConnection>scm:git:git@github.com:nkhalasi/ch-multi.git</developerConnection>
-    <tag>v1_0</tag>
   </scm>
 </project>
